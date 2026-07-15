@@ -1,4 +1,6 @@
 '''
+Dieses Skript ist auch auf Github zu finden: https://github.com/ThatPurpleLlama/PL-Skript-Vorlage/
+
 
 Dieses Skript ist ein Python Skript, welches zur Auswertung von je 2 Variablen aus 2 Messreihen (2 csv dateien) verwendet werden kann  
 Dabei werden, wie gesagt, 2 csv Dateien (welche üblich von digitalen messgeräten ist) eingelesen welche auf dem selben Graphen geplottet werden.
